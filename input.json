@@ -1,0 +1,152 @@
+{
+  "Config": {
+    "MemorySize": 4,
+    "TimeWindow": 500
+  },
+  "Hits": [
+    {
+      "ProcessId": 1,
+      "PageId": 1
+    },
+    {
+      "ProcessId": 1,
+      "PageId": 2
+    },
+    {
+      "ProcessId": 1,
+      "PageId": 3
+    },
+    {
+      "ProcessId": 1,
+      "PageId": 4
+    },
+    {
+      "ProcessId": 1,
+      "PageId": 4
+    },
+    {
+      "ProcessId": 1,
+      "PageId": 4
+    },
+    {
+      "ProcessId": 1,
+      "PageId": 5
+    },
+    {
+      "ProcessId": 1,
+      "PageId": 1
+    },
+    {
+      "ProcessId": 1,
+      "PageId": 2
+    },
+    {
+      "ProcessId": 1,
+      "PageId": 3
+    },
+    {
+      "ProcessId": 1,
+      "PageId": 3
+    },
+    {
+      "ProcessId": 1,
+      "PageId": 3
+    },
+    {
+      "ProcessId": 2,
+      "PageId": 1
+    },
+    {
+      "ProcessId": 2,
+      "PageId": 2
+    },
+    {
+      "ProcessId": 2,
+      "PageId": 3
+    },
+    {
+      "ProcessId": 2,
+      "PageId": 4
+    },
+    {
+      "ProcessId": 3,
+      "PageId": 4
+    },
+    {
+      "ProcessId": 3,
+      "PageId": 4
+    },
+    {
+      "ProcessId": 3,
+      "PageId": 5
+    },
+    {
+      "ProcessId": 3,
+      "PageId": 1
+    },
+    {
+      "ProcessId": 4,
+      "PageId": 2
+    },
+    {
+      "ProcessId": 4,
+      "PageId": 3
+    },
+    {
+      "ProcessId": 4,
+      "PageId": 3
+    },
+    {
+      "ProcessId": 4,
+      "PageId": 3
+    },
+    {
+      "ProcessId": 1,
+      "PageId": 5
+    },
+    {
+      "ProcessId": 3,
+      "PageId": 2
+    },
+    {
+      "ProcessId": 1,
+      "PageId": 3
+    },
+    {
+      "ProcessId": 4,
+      "PageId": 1
+    },
+    {
+      "ProcessId": 2,
+      "PageId": 4
+    },
+    {
+      "ProcessId": 2,
+      "PageId": 6
+    },
+    {
+      "ProcessId": 3,
+      "PageId": 5
+    },
+    {
+      "ProcessId": 1,
+      "PageId": 5
+    },
+    {
+      "ProcessId": 4,
+      "PageId": 5
+    },
+    {
+      "ProcessId": 1,
+      "PageId": 7
+    },
+    {
+      "ProcessId": 2,
+      "PageId": 8
+    },
+    {
+      "ProcessId": 3,
+      "PageId": 7
+    }
+  ]
+}
